@@ -1,1 +1,0 @@
-// Request/Response type ของ API

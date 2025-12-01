@@ -1,1 +1,0 @@
-// Config analytics หลัก เช่น GA4, Posthog

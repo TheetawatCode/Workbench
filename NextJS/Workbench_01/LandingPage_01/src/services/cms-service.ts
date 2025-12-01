@@ -1,1 +1,0 @@
-// ดึง content จาก CMS ถ้าใช้ (Contentful, Sanity)

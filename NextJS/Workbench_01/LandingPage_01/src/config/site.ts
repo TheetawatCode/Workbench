@@ -1,1 +1,0 @@
-// ข้อมูลชื่อเว็บ, URL, social, default SEO
