@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:Workbench}/MyCLI",
+            "name": "Debug MyCLI (MyCLI)",
+            "program": "${workspaceFolder:Workbench}/MyCLI/.build/debug/MyCLI",
+            "preLaunchTask": "swift: Build Debug MyCLI (MyCLI)"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:Workbench}/MyCLI",
+            "name": "Release MyCLI (MyCLI)",
+            "program": "${workspaceFolder:Workbench}/MyCLI/.build/release/MyCLI",
+            "preLaunchTask": "swift: Build Release MyCLI (MyCLI)"
+        }
+    ]
+}
